@@ -1,0 +1,3 @@
+# Face-Mask-Detection-using-Computer-vision
+classifying accurately the masked faces non-masked faces and semi-masking human faces is the difficult and hard task for the digital image processing related algorithms the characteristics needed to correctly forecast the corresponding class and then the classification of the individual is limited from naked human face to only the eyes or maybe sometimes a forehead of a human. 
+This project depends on the existing pre-train ResNet-50 framework, which is trained on human masked faces, non-masked faces, and semi-mashed faces to deal with the problem of classifying the person’s class when he or she is wearing the facial mask or not.
